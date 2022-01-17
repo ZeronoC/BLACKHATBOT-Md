@@ -17,9 +17,9 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'apivproject',
+  'https://api.xteam.xyz': 'db0e06bd9f096399',
   'https://melcanz.com': 'elaina',
-  'https://api.lolhuman.xyz': 'pkebgk8248jskrkfm',
+  'https://api.lolhuman.xyz': 'itschandra',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -29,9 +29,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.author = 'YanZerone'
 
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
+global.wm = '© ZeroneBot@iyyan2022'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
