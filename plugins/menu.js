@@ -166,15 +166,15 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/koleksibot/BLACKHATBOT-Md'
+               displayText: '💠 Chat Admin',
+               url: 'https://wa.me/6289614412045?text=halo'
              }
 
            },
              {
              callButton: {
                displayText: 'Nomor Owner',
-               PhoneNumber: '0895-3693-18181'
+               PhoneNumber: '0896-1441-2045'
              }
 
            },
@@ -194,8 +194,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            },
            {
              quickReplyButton: {
-               displayText: '📍 Waifu',
-               id: '.waifu',
+               displayText: '📍 Menu2',
+               id: '.allmenu',
              }
            }]
          }
